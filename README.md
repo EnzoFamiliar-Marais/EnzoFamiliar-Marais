@@ -40,7 +40,9 @@
 ![Microsoft Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ## 📊 GitHub Stats:
---- ![Enzo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EnzoFamiliar-Marais&show_icons=true&theme=tokyonight)
+![Enzo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EnzoFamiliar-Marais&show_icons=true&theme=tokyonight)
+
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoFamiliar-Marais&layout=compact&theme=tokyonight)
 
 
