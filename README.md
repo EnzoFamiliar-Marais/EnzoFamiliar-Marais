@@ -4,12 +4,11 @@
 - 🎓 Actuellement en **BUT Informatique - Parcours Réalisation d'Applications**
 - 💼 À la recherche d'une **alternance de 12 mois en tant que Développeur à partir de septembre 2025**
 - 🚀 Expérience en **Développement Full-Stack, Automatisation et Microsoft Power Platform**
-- 🛠️ En cours d'apprentissage : **C++ avancé, Python et outils DevOps**
-- 🎮 Passionné par **le développement, les nouvelles technologies et les jeux vidéo**
+- 🛠️ En cours d'apprentissage : **C++/C#, Dart, .Net, JavaScript**
+- 🎮 Passionné par **le développement, l'automobile et la Finance**
 
 ---
 
-💻 **Développement Web | Bases de Données | Automatisation**  
 📍 **Orléans, France**  
 
 📫 **Contact** : [familiar.marais.enzo@gmail.com](mailto:familiar.marais.enzo@gmail.com) | **[LinkedIn](https://www.linkedin.com/in/enzo-familiar-marais-7a78622b5/)**  
