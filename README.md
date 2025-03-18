@@ -15,9 +15,9 @@
 
 🏢 **Actuellement en poste chez Familles Rurales** en tant que **Développeur Logiciel** sur **Microsoft Power Platform**.
 
-## 🛠 Tech Stack:
+## 🛠 Compétences Techniques:
 
-### 💻 Languages:
+### 💻 Langages:
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -27,11 +27,11 @@
 ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### 🗄️ Databases:
+### 🗄️ Bases de Données:
 ![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 
-### 🛠️ Tools & Frameworks:
+### 🛠️ Outils & Frameworks:
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PowerApps](https://img.shields.io/badge/PowerApps-%237A43D5.svg?style=for-the-badge&logo=powerapps&logoColor=white)
