@@ -1,6 +1,9 @@
 🚀 Enzo Familiar-Marais | Développeur Full Stack & Microsoft Power Platform
+
 💻 Développement Web | Bases de Données | Automatisation
+
 📍 Orléans, France
+
 📫 Contact : familiar.marais.enzo@gmail.com | LinkedIn : https://www.linkedin.com/in/enzo-familiar-marais-7a78622b5/
 
 📚 Je suis actuellement en BUT 2 Informatique - Parcours Réalisation d'Applications.
