@@ -2,7 +2,6 @@
 
 ## 📌 À propos de moi :
 - 🎓 Actuellement en **BUT Informatique - Parcours Réalisation d'Applications**
-- 💼 À la recherche d'une **alternance de 12 mois en tant que Développeur à partir de septembre 2025**
 - 🚀 Expérience en **Développement Full-Stack, Automatisation et Microsoft Power Platform**
 - 🛠️ En cours d'apprentissage : **C++/C#, Dart, .Net, JavaScript**
 - 🎮 Passionné par **le développement, l'automobile et la Finance**
