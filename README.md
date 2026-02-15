@@ -2,9 +2,9 @@
 
 ## 📌 À propos de moi :
 - 🎓 Actuellement en **BUT Informatique - Parcours Réalisation d'Applications**
+- 🔒 **Orientation cybersécurité** : passionné par la sécurisation des applications et les bonnes pratiques de développement sécurisé
 - 🚀 Expérience en **Développement Full-Stack, Automatisation et Microsoft Power Platform**
-- 🛠️ En cours d'apprentissage : **C++/C#, Dart, .Net, JavaScript**
-- 🎮 Passionné par **le développement, l'automobile et la Finance**
+- 🎮 Passionné par **le développement, l'automobile, la Finance et la cybersécurité**
 
 ---
 
@@ -13,6 +13,17 @@
 📫 **Contact** : [familiar.marais.enzo@gmail.com](mailto:familiar.marais.enzo@gmail.com) | **[LinkedIn](https://www.linkedin.com/in/enzo-familiar-marais-7a78622b5/)**  
 
 🏢 **Actuellement en poste chez Familles Rurales** en tant que **Développeur Logiciel** sur **Microsoft Power Platform**.
+
+---
+
+## 🔐 Compétences en Cybersécurité :
+- **Sécurisation des applications** (OWASP Top 10, bonnes pratiques de codage sécurisé)
+- **Analyse de vulnérabilités** et gestion des correctifs
+- **Sensibilisation à la sécurité** et conformité (RGPD, bonnes pratiques)
+- **Gestion des identités et des accès** (Azure AD, rôles et permissions)
+- **Sécurisation des environnements Power Platform** (DLP, contrôles d'accès)
+
+---
 
 ## 🛠 Compétences Techniques:
 
@@ -38,16 +49,20 @@
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
+---
+
 ## 📊 GitHub Stats:
 ![Enzo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EnzoFamiliar-Marais&show_icons=true&theme=tokyonight)
 
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoFamiliar-Marais&layout=compact&theme=tokyonight)
 
+---
 
+## 🚀 Projets à venir :
+- Développement d'outils de **sécurisation automatisée** pour applications web
+- **Audit de code** et analyse de vulnérabilités sur projets open-source
+- Mise en place d'une **plateforme de sensibilisation à la cybersécurité**
 
+---
 
-
-
-
-
+💬 *Toujours partant pour échanger sur la cybersécurité, le développement sécurisé et les nouvelles technologies !*
